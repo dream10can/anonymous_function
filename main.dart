@@ -1,5 +1,5 @@
 main() {
   final sayHi = (String name) => 'Hi $name';
 
-  print(sayHi('ahmed'));
+  print(sayHi('nasser'));
 }
